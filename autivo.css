@@ -1,3 +1,7 @@
+.vfrc-proactive-message {
+  border: 1px solid black;
+}
+
 @media screen and (min-width: 768px) {
   .vfrc-widget--chat {
     width: 500px;
