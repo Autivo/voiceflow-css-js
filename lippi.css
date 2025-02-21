@@ -5,6 +5,7 @@
 
 .vfrc-carousel .vfrc-card--header {
   min-height: 2.5rem;
+  word-break: break-word;
 }
 
 @media screen and (min-width: 768px) {
