@@ -1,8 +1,9 @@
-.vfrc-carousel .vfrc-image--background  {
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: white;
+.vfrc-carousel .vfrc-card img {
+  max-height: 20vh;
+}
+
+.vfrc-carousel .vfrc-card--header {
+  white-space: nowrap;
 }
 
 @media screen and (min-width: 768px) {
