@@ -3,9 +3,9 @@
   max-height: 20vh;
 }
 
-.vfrc-carousel .vfrc-card--header {
-  white-space: nowrap;
-}
+/* .vfrc-carousel .vfrc-card--header {
+  white-space: break-spaces;
+} */
 
 @media screen and (min-width: 768px) {
   .vfrc-widget--chat {
