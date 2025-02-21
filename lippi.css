@@ -1,4 +1,5 @@
 .vfrc-carousel .vfrc-card img {
+  width: auto;
   max-height: 20vh;
 }
 
