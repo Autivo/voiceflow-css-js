@@ -1,0 +1,14 @@
+.vfrc-carousel .vfrc-card img {
+  width: auto;
+  max-height: 20vh;
+}
+
+.vfrc-carousel .vfrc-card--header {
+  height: 2.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .vfrc--chat {
+    width: 500px;
+  }
+}
