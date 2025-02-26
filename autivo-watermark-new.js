@@ -35,7 +35,6 @@ function injectCustomWatermark(container) {
   style.textContent = `
     .watermark {
       text-decoration: none;
-      color: blue; /* Adjust as needed */
     }
     .watermark:hover {
       text-decoration: underline;
