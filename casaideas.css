@@ -1,10 +1,24 @@
 .vfrc-carousel .vfrc-card img {
   width: auto;
-  max-height: 20vh;
+  max-height: 25vh;
 }
 
 .vfrc-carousel .vfrc-card--header {
   height: 2.5rem;
+}
+
+.vfrc-card {
+  border: 1px solid #f1f1f1;
+  border-radius: 10px;
+}
+
+.vfrc-carousel {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.vfrc-carousel--button {
+  top: 40%;
 }
 
 @media screen and (min-width: 768px) {
