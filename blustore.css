@@ -12,6 +12,12 @@
   border-radius: 10px;
 }
 
+.vfrc-carousel {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  pointer-events: auto;
+}
+
 @media screen and (min-width: 768px) {
   /* Chat window */
   ._1wkq7nf3 { 
