@@ -10,7 +10,7 @@ window.onload = function () {
             var assistantContainer = node.querySelector('.jsli361');
             if (assistantContainer) {
               assistantContainer.innerHTML =
-                '<a href="https://autivo.ai" style="text-decoration: none;" onmouseover="this.style.textDecoration="underline"" onmouseout="this.style.textDecoration="none"" target="_blank">Powered ⚡️ by Autivo</a>';
+                '<a href="https://autivo.ai" class="jsli366" target="_blank">Powered ⚡️ by Autivo</a>';
               chatObserver.disconnect();
             }
           });
@@ -22,7 +22,7 @@ window.onload = function () {
       var existingContainer = shadowHost.shadowRoot.querySelector('.jsli361');
       if (existingContainer) {
         existingContainer.innerHTML =
-          '<a href="https://autivo.ai" style="text-decoration: none;" onmouseover="this.style.textDecoration="underline"" onmouseout="this.style.textDecoration="none"" target="_blank">Powered ⚡️ by Autivo</a>';
+          '<a href="https://autivo.ai" class="jsli366" target="_blank">Powered ⚡️ by Autivo</a>';
         chatObserver.disconnect();
       }
     }
