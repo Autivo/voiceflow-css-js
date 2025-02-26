@@ -22,7 +22,7 @@ window.onload = function () {
       var existingContainer = shadowHost.shadowRoot.querySelector('.jsli361');
       if (existingContainer) {
         existingContainer.innerHTML =
-          'Powered ⚡️ by <a href="https://autivo.ai" target="_blank">Autivo</a>';
+          'Powered ⚡️ by <a href="https://autivo.ai" style="text-decoration: none;" target="_blank">Autivo</a>';
         chatObserver.disconnect();
       }
     }
