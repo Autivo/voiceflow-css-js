@@ -15,7 +15,10 @@
 .vfrc-carousel {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  pointer-events: auto;
+}
+
+.vfrc-carousel--button {
+  top: 40%;
 }
 
 @media screen and (min-width: 768px) {
