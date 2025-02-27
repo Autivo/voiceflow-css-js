@@ -1,4 +1,4 @@
-/* Border for proactive messages */
+/* Proactive messages */
 ._6r9xee3 {
   border: 1.5px solid #d6d6d6;
 }
@@ -10,7 +10,7 @@
   object-fit: cover;
 }
 
-.vfrc-button {
+.vfrc-system-response--actions .vfrc-button {
   border: 1.5px solid #d6d6d6;
 }
 
