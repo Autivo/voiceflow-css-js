@@ -21,6 +21,13 @@
   top: 40%;
 }
 
+.vfrc-carousel .vfrc-image--background  {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: white;
+}
+
 .vfrc-system-response--actions .vfrc-button {
   border: 1.5px solid #d6d6d6;
 }
