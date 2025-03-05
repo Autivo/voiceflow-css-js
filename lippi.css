@@ -23,13 +23,6 @@
 
 .vfrc-system-response--actions .vfrc-button {
   border: 1.5px solid #d6d6d6;
-  background: linear-gradient(to right, #D9D9D9, #F2F2F2);
-  transition: all 0.2s ease;
-}
-
-.vfrc-system-response--actions .vfrc-button:hover {
-  background: linear-gradient(to right, #C9C9C9, #E2E2E2);
-  border-color: #c0c0c0;
 }
 
 @media screen and (min-width: 768px) {
