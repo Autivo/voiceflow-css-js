@@ -1,18 +1,32 @@
-.vfrc-carousel .vfrc-card img {
-  width: auto;
-  max-height: 20vh;
+/* Proactive messages */
+._6r9xee3 {
+  border: 1.5px solid #d6d6d6;
 }
 
-.vfrc-carousel .vfrc-card--header {
+.vfrc-card--header {
   height: 2.5rem;
 }
 
-@media screen and (min-width: 768px) {
-  .vfrc-widget--chat {
-    width: 500px;
-  }
+.vfrc-card {
+  border: 1px solid #f1f1f1;
+  border-radius: 10px;
+}
 
-  .vfrc-card {
-    width: 260px;
+.vfrc-carousel {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.vfrc-carousel--button {
+  top: 40%;
+}
+
+.vfrc-system-response--actions .vfrc-button {
+  border: 1.5px solid #d6d6d6;
+}
+
+@media screen and (min-width: 768px) {
+  ._1wkq7nf3 { 
+    width: 500px;
   }
 }
