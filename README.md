@@ -1,2 +1,2 @@
 # voiceflow-css-js
-Archivos públicos para customizar bots Voiceflow
+Custom JS & CSS ©️ Autivo
