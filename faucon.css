@@ -3,12 +3,9 @@
   border: 1.5px solid #d6d6d6;
 }
 
-.vfrc-card--header {
-  height: 2.5rem;
-}
-
-._1lbxmyd1 {
-  height: 12rem;
+.vfrc-card img {
+  width: auto;
+  max-height: 30vh;
 }
 
 .vfrc-card {
